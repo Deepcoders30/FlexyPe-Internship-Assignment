@@ -1,0 +1,35 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+bower_components/
+
+# Build output
+dist/
+build/
+
+# IDE and editor specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# npm package lock files (optional, if you want to ignore them)
+# package-lock.json
+# yarn.lock
+
+# test coverage
+coverage/
+
+# Optional: ignore generated documentation
+doc/
